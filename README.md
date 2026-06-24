@@ -9,7 +9,7 @@
 
 ---
 
-![Project Screenshot](http://nextwork.ai/confident_vermilion_quiet_allspice/uploads/aws-account-setup_r6s1t7u3)
+![AWS Account](Screenshot%202026-06-24%20095638.png)
 
 ---
 
@@ -126,7 +126,7 @@ Identity verification prevents fraudulent account creation and helps secure AWS 
 - Enabled AWS Free Tier Usage Alerts.
 - Configured email notifications.
 
-![Billing Alerts](http://nextwork.ai/confident_vermilion_quiet_allspice/uploads/aws-account-setup_j6k1l7m3)
+![Billing Alerts](Screenshot%202026-06-24%20100144.png)
 
 ### Steps Performed
 
@@ -151,7 +151,7 @@ Free Tier alerts notify users when usage reaches approximately 85% of Free Tier 
 - Connected an Authenticator App.
 - Enabled MFA for the Root User.
 
-![MFA](http://nextwork.ai/confident_vermilion_quiet_allspice/uploads/aws-account-setup_e3f7g2h8)
+![MFA](Screenshot%202026-06-24%20100604.png)
 
 ### Steps Performed
 
